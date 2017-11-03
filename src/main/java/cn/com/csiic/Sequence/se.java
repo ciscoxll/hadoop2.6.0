@@ -1,7 +1,5 @@
 package cn.com.csiic.Sequence;
-
 import java.io.File;
-
 import org.apache.commons.io.FileUtils;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
